@@ -1,0 +1,11 @@
+body{
+    margin-top:180px; 
+    font-size:60px;
+    background-color:rgb(255, 0, 255);
+    color:aqua;
+    }
+    button{
+    font-size:x-large;
+    height:100px;
+    width:200px;
+    }
